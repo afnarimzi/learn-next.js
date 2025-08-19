@@ -1,2 +1,3 @@
 # learn-next.js
-Learn Next.js on my spare time
+
+This is a project built while learning [Next.js](https://nextjs.org/) from the official documentation.  
